@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://telegram.ph/:splat"
+  to = "https://telegram.ph/"
   status = 200
   force = true

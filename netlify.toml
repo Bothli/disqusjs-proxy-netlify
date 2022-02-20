@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://disqus.com/api/:splat"
+  to = "https://telegram.ph/:splat"
   status = 200
   force = true
